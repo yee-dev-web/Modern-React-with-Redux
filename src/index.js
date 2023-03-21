@@ -32,7 +32,7 @@ function App() {
     return (
         <div>
             <input style={{color: "red", border: '3px solid blue'}}
-                   maxLength={6}
+                   maxLength={5}
             />
 
             <input placeholder='hi there'
