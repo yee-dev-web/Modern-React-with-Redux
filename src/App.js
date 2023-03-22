@@ -1,5 +1,6 @@
 import React from "react";
-import Style from "./style.css";
+
+//import Style from "./style.css"
 
 function App() {
     // let message = 'Bye There!'
@@ -25,7 +26,7 @@ function App() {
                    maxLength={7}
             />
 
-            <input placeholder='Hi there'
+            <input placeholder='Hi there hello'
                    id='ads'
                    spellCheck
                    type="text"
