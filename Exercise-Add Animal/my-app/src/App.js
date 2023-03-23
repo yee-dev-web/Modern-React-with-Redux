@@ -1,14 +1,18 @@
 import AnimalShow from "./AnimalShow";
 
-function App(){
+function App() {
+    const handleClick = () => {
+        console.log('button was clicked!!')
+    }
+
     return (
-          <div>
-              Show animal list here!
-              <AnimalShow/>
-              <AnimalShow/>
-          </div>
+        <div>
+            <button onClick={handleClick}>
+                Add Animal
+            </button>
+        </div>
     );
 
 }
 
-export  default App;
+export default App;
