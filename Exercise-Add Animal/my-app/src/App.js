@@ -5,6 +5,7 @@ function App(){
           <div>
               Show animal list here!
               <AnimalShow/>
+              <AnimalShow/>
           </div>
     );
 
