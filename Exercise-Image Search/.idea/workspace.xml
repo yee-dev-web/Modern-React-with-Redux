@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="fdaa18a5-c36e-41bf-ba19-c7982d641f66" name="Changes" comment="Image-Search App">
+      <change afterPath="$PROJECT_DIR$/../API-Exercise-Image Search/image-search/src/api.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../API-Exercise-Image Search/image-search/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/../API-Exercise-Image Search/image-search/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../API-Exercise-Image Search/image-search/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/../API-Exercise-Image Search/image-search/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../API-Exercise-Image Search/image-search/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/../API-Exercise-Image Search/image-search/src/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../API-Exercise-Image Search/image-search/src/components/SearchBar.js" beforeDir="false" afterPath="$PROJECT_DIR$/../API-Exercise-Image Search/image-search/src/components/SearchBar.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../API-Exercise-Image Search/image-search/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/../API-Exercise-Image Search/image-search/src/index.js" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2NYQROGCPRbkHfV48PbR0lJGidf" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="fdaa18a5-c36e-41bf-ba19-c7982d641f66" name="Changes" comment="" />
+      <created>1679838528745</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1679838528745</updated>
+      <workItem from="1679838529825" duration="7544000" />
+    </task>
+    <task id="LOCAL-00001" summary="Image-Search App">
+      <created>1679839153417</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1679839153417</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Image-Search App" />
+    <option name="LAST_COMMIT_MESSAGE" value="Image-Search App" />
+  </component>
+</project>

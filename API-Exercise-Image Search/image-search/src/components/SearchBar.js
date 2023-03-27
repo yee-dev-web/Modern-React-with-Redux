@@ -1,7 +1,17 @@
-function  SearchBar(){
+function  SearchBar({onSubmit}){
+
+    const handleFormSubmit = (e) => {
+
+        e.preventDefault()
+        onSubmit('cars')
+    }
+
     return (
         <div>
-            SearchBar
+            <form onSubmit={handleFormSubmit}>
+                <input/>
+            </form>
+
         </div>
     );
 }
