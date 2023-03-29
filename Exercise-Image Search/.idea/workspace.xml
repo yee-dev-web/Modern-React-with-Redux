@@ -4,14 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fdaa18a5-c36e-41bf-ba19-c7982d641f66" name="Changes" comment="Include Axios Api">
-      <change afterPath="$PROJECT_DIR$/../API-Exercise-Image Search/image-search/src/components/ImageList.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../API-Exercise-Image Search/image-search/src/components/SearchBar.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../API-Exercise-Image Search/image-search/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/../API-Exercise-Image Search/image-search/src/App.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../API-Exercise-Image Search/image-search/src/api.js" beforeDir="false" afterPath="$PROJECT_DIR$/../API-Exercise-Image Search/image-search/src/api.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../API-Exercise-Image Search/image-search/src/components/ImageList.js" beforeDir="false" afterPath="$PROJECT_DIR$/../API-Exercise-Image Search/image-search/src/components/ImageList.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../API-Exercise-Image Search/image-search/src/components/ImageShow.js" beforeDir="false" afterPath="$PROJECT_DIR$/../API-Exercise-Image Search/image-search/src/components/ImageShow.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../API-Exercise-Image Search/image-search/src/components/SearchBar.js" beforeDir="false" afterPath="$PROJECT_DIR$/../API-Exercise-Image Search/image-search/src/components/SearchBar.js" afterDir="false" />
+    <list default="true" id="fdaa18a5-c36e-41bf-ba19-c7982d641f66" name="Changes" comment="End Project">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -65,7 +58,7 @@
       <option name="presentableId" value="Default" />
       <updated>1679838528745</updated>
       <workItem from="1679838529825" duration="9621000" />
-      <workItem from="1679926437612" duration="11160000" />
+      <workItem from="1679926437612" duration="12291000" />
     </task>
     <task id="LOCAL-00001" summary="Image-Search App">
       <created>1679839153417</created>
@@ -95,7 +88,14 @@
       <option name="project" value="LOCAL" />
       <updated>1679932745339</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="End Project">
+      <created>1679962822725</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1679962822725</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -104,6 +104,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Image-Search App" />
     <MESSAGE value="Include Axios Api" />
-    <option name="LAST_COMMIT_MESSAGE" value="Include Axios Api" />
+    <MESSAGE value="End Project" />
+    <option name="LAST_COMMIT_MESSAGE" value="End Project" />
   </component>
 </project>
