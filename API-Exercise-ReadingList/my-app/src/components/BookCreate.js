@@ -7,22 +7,23 @@ function BookCreate({onCreate}){
   const handleFormSubmit =(e)=>{
     e.preventDefault()
     onCreate(title)
+    setTitle('')//girişin icini bosaltir.
   }
   const handleChange =(e)=>{
     setTitle(e.target.value)
   }
 
   return(
-     <>
-       <h1>
+     <div className='book-create'>
+       <h3>
          Add a Book
-       </h1>
+       </h3>
       <form onSubmit={handleFormSubmit}>
         <label>Title</label>
-        <input value={title} onChange={handleChange}/>
-        <button>Create!</button>
+        <input className='input' value={title} onChange={handleChange}/>
+        <button className='button'>Create!</button>
       </form>
-     </>
+     </div>
   )
 }
 

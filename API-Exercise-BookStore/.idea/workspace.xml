@@ -4,25 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c6030eac-98a9-478d-a6a1-be6bb735b7cf" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/../API-Exercise-ReadingList/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../API-Exercise-ReadingList/.idea/API-Exercise-BookStore.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../API-Exercise-ReadingList/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../API-Exercise-ReadingList/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../API-Exercise-ReadingList/my-app/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../API-Exercise-ReadingList/my-app/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../API-Exercise-ReadingList/my-app/package-lock.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../API-Exercise-ReadingList/my-app/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../API-Exercise-ReadingList/my-app/public/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../API-Exercise-ReadingList/my-app/src/App.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../API-Exercise-ReadingList/my-app/src/components/BookCreate.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../API-Exercise-ReadingList/my-app/src/components/BookEdit.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../API-Exercise-ReadingList/my-app/src/components/BookList.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../API-Exercise-ReadingList/my-app/src/components/BookShow.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../API-Exercise-ReadingList/my-app/src/index.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../API-Exercise-ReadingList/my-app/src/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../API-Exercise-Image Search/image-search/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/../API-Exercise-Image Search/image-search/src/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Exercise-Image Search/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Exercise-Image Search/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="c6030eac-98a9-478d-a6a1-be6bb735b7cf" name="Changes" comment="Reading List">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../API-Exercise-ReadingList/my-app/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/../API-Exercise-ReadingList/my-app/src/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../API-Exercise-ReadingList/my-app/src/components/BookCreate.js" beforeDir="false" afterPath="$PROJECT_DIR$/../API-Exercise-ReadingList/my-app/src/components/BookCreate.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../API-Exercise-ReadingList/my-app/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/../API-Exercise-ReadingList/my-app/src/index.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -34,6 +20,14 @@
       <list>
         <option value="JavaScript File" />
       </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="PUSH_TAGS">
+      <GitPushTagMode>
+        <option name="argument" value="--tags" />
+        <option name="title" value="All" />
+      </GitPushTagMode>
     </option>
   </component>
   <component name="MarkdownSettingsMigration">
@@ -75,8 +69,16 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1680087766193</updated>
-      <workItem from="1680087767295" duration="4722000" />
+      <workItem from="1680087767295" duration="8932000" />
     </task>
+    <task id="LOCAL-00001" summary="Reading List">
+      <created>1680092774192</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1680092774192</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -84,5 +86,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="Reading List" />
+    <option name="LAST_COMMIT_MESSAGE" value="Reading List" />
   </component>
 </project>
