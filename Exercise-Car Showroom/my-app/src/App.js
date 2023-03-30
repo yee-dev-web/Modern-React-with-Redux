@@ -4,6 +4,19 @@ import CarList from "./components/CarList"
 
 function App() {
   const [cars, setCar] = useState([])
+
+  const editCar = (id, newModel) => {
+    const updatedCars = cars.map((car) => {
+      if (car.id === id) {
+        return {...car, model: newModel}
+      }
+
+      return car
+    })
+
+    setCar(updatedCars)
+  }
+
   const createCar = (model) => {
     const updatedCars = [
       ...cars, {
@@ -26,7 +39,7 @@ function App() {
 
   return (
       <div>
-        <CarList cars={cars} onDelete={deleteCar}/>
+        <CarList cars={cars} onDelete={deleteCar} onEdit={editCar}/>
         <CarCreate onCreate={createCar}/>
       </div>
   )

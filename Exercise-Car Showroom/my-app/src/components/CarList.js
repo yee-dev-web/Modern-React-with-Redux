@@ -1,13 +1,14 @@
 import CarShow from './CarShow'
-function CarList({cars,onDelete}){
-  const renderedCars = cars.map((car)=>{
-    return <CarShow key={car.id} car={car} onDelete={onDelete}/>
+
+function CarList({cars, onDelete, onEdit}) {
+  const renderedCars = cars.map((car) => {
+    return <CarShow key={car.id} car={car} onDelete={onDelete} onEdit={onEdit}/>
   })
 
-  return(
-    <div>
-      {renderedCars}
-    </div>
+  return (
+      <div>
+        {renderedCars}
+      </div>
   )
 }
 
