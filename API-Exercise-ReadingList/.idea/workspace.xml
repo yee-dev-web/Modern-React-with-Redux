@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="b339d684-f3a6-4fee-9c95-4b77531151f4" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Exercise-Car Showroom/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Exercise-Car Showroom/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Exercise-Car Showroom/my-app/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Exercise-Car Showroom/my-app/public/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Exercise-Car Showroom/my-app/src/App.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Exercise-Car Showroom/my-app/src/components/CarCreate.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Exercise-Car Showroom/my-app/src/components/CarEdit.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Exercise-Car Showroom/my-app/src/components/CarList.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Exercise-Car Showroom/my-app/src/components/CarShow.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Exercise-Car Showroom/my-app/src/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Exercise-ReadingList/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Exercise-ReadingList/.idea/API-Exercise-BookStore.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Exercise-ReadingList/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Exercise-ReadingList/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Exercise-ReadingList/my-app/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Exercise-ReadingList/my-app/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Exercise-ReadingList/my-app/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Exercise-ReadingList/my-app/src/index.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../API-Exercise-BookStore/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../Exercise-Car Showroom/.idea/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/API-Exercise-BookStore.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../Exercise-Car Showroom/.idea/Exercise-Car Showroom.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-app/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../Exercise-Car Showroom/my-app/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-app/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/../Exercise-Car Showroom/my-app/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-app/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/../Exercise-ReadingList/my-app/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-app/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/../Exercise-Car Showroom/my-app/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-app/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../Exercise-ReadingList/my-app/public/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-app/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/../Exercise-ReadingList/my-app/src/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-app/src/components/BookCreate.js" beforeDir="false" afterPath="$PROJECT_DIR$/../Exercise-ReadingList/my-app/src/components/BookCreate.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-app/src/components/BookEdit.js" beforeDir="false" afterPath="$PROJECT_DIR$/../Exercise-ReadingList/my-app/src/components/BookEdit.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-app/src/components/BookList.js" beforeDir="false" afterPath="$PROJECT_DIR$/../Exercise-ReadingList/my-app/src/components/BookList.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-app/src/components/BookShow.js" beforeDir="false" afterPath="$PROJECT_DIR$/../Exercise-ReadingList/my-app/src/components/BookShow.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-app/src/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/../Exercise-Car Showroom/my-app/src/index.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-app/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/../Exercise-ReadingList/my-app/src/index.js" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2NjlhdhgTIwHAAHTTlqRZNLrU3y" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b339d684-f3a6-4fee-9c95-4b77531151f4" name="Changes" comment="" />
+      <created>1680185492571</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1680185492571</updated>
+      <workItem from="1680185493596" duration="3058000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+</project>
