@@ -8,6 +8,7 @@
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../API-Exercise-ReadingList/my-app/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/../API-Exercise-ReadingList/my-app/src/App.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../API-Exercise-ReadingList/my-app/src/components/BookEdit.js" beforeDir="false" afterPath="$PROJECT_DIR$/../API-Exercise-ReadingList/my-app/src/components/BookEdit.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../API-Exercise-ReadingList/my-app/src/components/BookList.js" beforeDir="false" afterPath="$PROJECT_DIR$/../API-Exercise-ReadingList/my-app/src/components/BookList.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../API-Exercise-ReadingList/my-app/src/components/BookShow.js" beforeDir="false" afterPath="$PROJECT_DIR$/../API-Exercise-ReadingList/my-app/src/components/BookShow.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -73,7 +74,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1680087766193</updated>
-      <workItem from="1680087767295" duration="15895000" />
+      <workItem from="1680087767295" duration="19482000" />
     </task>
     <task id="LOCAL-00001" summary="Reading List">
       <created>1680092774192</created>
@@ -96,7 +97,14 @@
       <option name="project" value="LOCAL" />
       <updated>1680125854265</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Reading List">
+      <created>1680131063384</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1680131063384</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">

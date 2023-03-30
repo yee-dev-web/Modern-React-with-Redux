@@ -1,6 +1,6 @@
 import {useState} from "react";
 
-function BookEdit({book}) {
+function BookEdit({book, onSubmit}) {
   const [title, setTitle] = useState(book.title)
 
   const handleChange = (e) => {
@@ -9,8 +9,7 @@ function BookEdit({book}) {
 
   const handleSubmit = (e) => {
     e.preventDefault()
-
-    console.log('newTitle', title)
+    onSubmit(book.id, title)
   }
 
   return (
