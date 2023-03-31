@@ -24,9 +24,7 @@ function App() {
     const response =  await axios.put(`http://localhost:3002/books/${id}`,{
       title:newTitle
     })
-
-    console.log(response)
-
+    
 
     const updatedBooks = books.map((book) => {
       if (book.id === id) {
