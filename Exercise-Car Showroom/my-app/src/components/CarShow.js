@@ -1,6 +1,7 @@
 import {useState} from "react";
 import CarEdit from './CarEdit'
 
+
 function CarShow({car, onDelete, onEdit}) {
 
   const [showEdit, setShowEdit] = useState(false)
@@ -22,6 +23,7 @@ function CarShow({car, onDelete, onEdit}) {
   if (showEdit) {
     content = <CarEdit onSubmit={handleSubmit} car={car}/>
   }
+
 
   return (
       <div className='book-show'>
