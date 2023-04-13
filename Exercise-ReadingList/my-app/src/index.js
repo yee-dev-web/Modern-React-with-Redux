@@ -8,7 +8,7 @@ const  el = document.getElementById('root')
 const root = ReactDOM.createRoot(el)
 
 root.render(
-      <BooksContext.Provider value={7}>
+      <BooksContext.Provider value={9}>
         <App/>
       </BooksContext.Provider>
     )
